@@ -1,4 +1,4 @@
-# todoList_reac_native training project
+#training project
 
 npm i
 
